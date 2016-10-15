@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         view.backgroundColor = UIColor.gray
         
+        UIApplication.shared.isStatusBarHidden = false
     }
 }
 

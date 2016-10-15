@@ -81,6 +81,10 @@ class FirstViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        //隐藏状态栏
+        
+        UIApplication.shared.isStatusBarHidden = true
+        
         player = AVPlayer(url: videoUrl)
         
         player.play()
@@ -112,7 +116,7 @@ class FirstViewController: UIViewController {
         player.play()
         
     }
-    
+
     deinit {
         NotificationCenter.default.removeObserver(self)
     }
