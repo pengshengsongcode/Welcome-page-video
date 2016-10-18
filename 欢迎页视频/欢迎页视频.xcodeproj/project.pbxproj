@@ -14,6 +14,7 @@
 		80B0E9611DB1CBB70067EA5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80B0E9601DB1CBB70067EA5E /* Assets.xcassets */; };
 		80B0E9641DB1CBB70067EA5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80B0E9621DB1CBB70067EA5E /* LaunchScreen.storyboard */; };
 		80B0E9EB1DB20CD80067EA5E /* qidong.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 80B0E9EA1DB20CD80067EA5E /* qidong.mp4 */; };
+		80E8E8AB1DB6072C00A04639 /* 简单动画.gif in Resources */ = {isa = PBXBuildFile; fileRef = 80E8E8AA1DB6072C00A04639 /* 简单动画.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		80B0E9651DB1CBB70067EA5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		80B0E96B1DB1CD800067EA5E /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		80B0E9EA1DB20CD80067EA5E /* qidong.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = qidong.mp4; sourceTree = "<group>"; };
+		80E8E8AA1DB6072C00A04639 /* 简单动画.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "简单动画.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				80B0E9591DB1CBB70067EA5E /* AppDelegate.swift */,
 				80B0E95B1DB1CBB70067EA5E /* ViewController.swift */,
 				80B0E96B1DB1CD800067EA5E /* FirstViewController.swift */,
+				80E8E8AA1DB6072C00A04639 /* 简单动画.gif */,
 				80B0E9EA1DB20CD80067EA5E /* qidong.mp4 */,
 				80B0E95D1DB1CBB70067EA5E /* Main.storyboard */,
 				80B0E9601DB1CBB70067EA5E /* Assets.xcassets */,
@@ -134,6 +137,7 @@
 				80B0E9611DB1CBB70067EA5E /* Assets.xcassets in Resources */,
 				80B0E95F1DB1CBB70067EA5E /* Main.storyboard in Resources */,
 				80B0E9EB1DB20CD80067EA5E /* qidong.mp4 in Resources */,
+				80E8E8AB1DB6072C00A04639 /* 简单动画.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
